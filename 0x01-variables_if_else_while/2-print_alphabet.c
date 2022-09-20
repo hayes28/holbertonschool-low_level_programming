@@ -1,5 +1,5 @@
 /**
- * file 2-print_alphabet.c
+ * main - file 2-print_alphabet.c
  * print alphabet with lowercase letters
  *
  * Return: Always 0 (Success)
