@@ -14,5 +14,6 @@ int main(void)
 		putchar((N % 10) + '0');
 	for (L = 'a'; L <= 'f'; L++)
 		putchar(L);
+	putchar('\n');
 	return (0);
 }
