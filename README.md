@@ -1,2 +1,1 @@
-#!/bin/bash
-README for root of this repository describing the projects and basic C programming.
+README for the repository holbertonschool-low_level_programming
