@@ -8,6 +8,7 @@
  * for all of the fuhnctions in 0x07. C - Even more pointers, arrays
  * and strings
  */
+#include <stddef.h>
 
 int _putchar(char c);
 char *_memset(char *s, char b, unsigned int n);
