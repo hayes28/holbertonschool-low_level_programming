@@ -7,6 +7,7 @@
  * Description: Header file containing the prototypes
  * for all of the functions for project 0x09. C - Static libraries.
  */
+#include <stddef.h>
 
 int _putchar(char c);
 int _islower(int c);
