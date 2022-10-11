@@ -9,7 +9,13 @@
  */
 int main(int argc, __attribute__((unused)) char *argv[])
 {
-	printf("argc = %d\n", argc);
+	int i, sum = 0;
+
+	for (i = 1; i < argc; i++)
+	{
+		sum += 1;
+	}
+	printf("%d\n", sum);
 
 	return (0);
 }
