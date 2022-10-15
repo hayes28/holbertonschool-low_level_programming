@@ -1,5 +1,5 @@
-#ifndef main_h
-#define main_h
+#ifndef holberton_h
+#define holberton_h
 
 /**
  * Main - main.h
@@ -7,6 +7,8 @@
  * Description: Header file containing the prototypes
  * for all of the functions for project 0x08. C - Recursion.
  */
+
+#include <stddef.h>
 
 int _putchar(char c);
 int _islower(int c);
