@@ -1,6 +1,6 @@
 README for project 0x0A. C - Dynamic libraries
 
-//Tasks\\
+/*Tasks*\
 
 0. Create the dynamic library libdynamic.so containing all the functions listed below:
 int _putchar(char c);
