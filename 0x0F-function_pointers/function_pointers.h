@@ -1,6 +1,7 @@
 #ifndef function_pointers_h
 #define function_pointers_h
-
+#include <stddef.h>
+#include <stdlib.h>
 /**
  * Function_pointers - This is my header file for this project
  *
