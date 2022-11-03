@@ -2,9 +2,9 @@
 
 /**
 * sum_them_all - function that returns the sum of all its parameters
-* @n: const unsigned integer
+* @n: integer to compute
 *
-* Return: if n is equal to 0, return 0
+* Return: sum of integers
 */
 int sum_them_all(const unsigned int n, ...)
 {
