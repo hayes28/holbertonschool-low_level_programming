@@ -1,6 +1,10 @@
 #ifndef variadic_functions_h
 #define variadic_functions_h
 
+#include <stdarg.h>
+#include <stdio.h>
+#include <unistd.h>
+
 /**
 * variadic_functions_h - this is my header file for this project
 *
