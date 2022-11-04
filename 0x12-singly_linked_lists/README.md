@@ -1,4 +1,4 @@
-# READMEME for Singly-Linked lists project.
+# README for Singly-Linked lists project.
 
 First I made a new directory inside my holberton-low_level_programming repository,
 named 0x12-singly_linked_lists. 
