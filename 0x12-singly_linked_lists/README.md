@@ -3,6 +3,7 @@
 First I made a new directory inside my holberton-low_level_programming repository,
 named 0x12-singly_linked_lists. 
 Next, I made this README, then I'll create each file for each task.
+As well as my header file named lists.h.
 
 ## Tasks
 
