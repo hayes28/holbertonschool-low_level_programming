@@ -1,3 +1,4 @@
+![bitwise operations](https://user-images.githubusercontent.com/107968573/200233865-06dd6f2e-0475-419f-b1dd-0ced67f7d6b9.png)
 # README for project 0x13/0x14 - Bit Manipulation
 
 ## Tasks
