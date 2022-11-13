@@ -1,4 +1,4 @@
-(![hash table image](https://user-images.githubusercontent.com/107968573/201505047-ae54a9b5-e8c0-4bdd-bfbf-7a3abb6ec2be.png)
+![hash table image](https://user-images.githubusercontent.com/107968573/201505047-ae54a9b5-e8c0-4bdd-bfbf-7a3abb6ec2be.png)
 
 # README for project Hash Tables
 
