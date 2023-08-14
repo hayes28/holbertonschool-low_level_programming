@@ -12,7 +12,7 @@
  * @next: Pointer to the next node
  * @express: Pointer to the next node in the express lane
  */
-typedef struct skiplist_s
+typedef struct skiplist_search
 {
     int n;
     size_t index;
@@ -27,6 +27,5 @@ int binary_search(int *array, size_t size, int value);
 int recursive_binary(int *array, size_t l, size_t r, int value);
 int advanced_binary(int *array, size_t size, int value);
 skiplist_t *linear_skip(skiplist_t *list, int value);
-
 
 #endif /* SEARCH_ALGOS_H */
