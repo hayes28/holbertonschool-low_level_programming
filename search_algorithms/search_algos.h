@@ -12,6 +12,7 @@
  * @next: Pointer to the next node
  * @express: Pointer to the next node in the express lane
  */
+
 typedef struct skiplist_s
 {
     int n;
