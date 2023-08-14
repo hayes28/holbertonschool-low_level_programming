@@ -14,10 +14,10 @@
  */
 typedef struct skiplist_search
 {
-    int n;
-    size_t index;
-    struct skiplist_s *next;
-    struct skiplist_s *express;
+	int n;
+	size_t index;
+	struct skiplist_search *next;
+	struct skiplist_search *express;
 } skiplist_t;
 
 /* Prototypes */
